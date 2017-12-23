@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/disk2/workspace/chenlingxi/workspace/math/zipcode'
+let g:netrw_dirhist_2='/disk2/workspace/chenlingxi/workspace/math'
+let g:netrw_dirhist_3='/disk2/workspace/chenlingxi/workspace/math/KDL'
+let g:netrw_dirhist_4='/disk2/workspace/chenlingxi/workspace/math/KDL/src'
+let g:netrw_dirhist_5='/disk2/workspace/chenlingxi/workspace/math'
+let g:netrw_dirhist_6='/disk2/workspace/chenlingxi/workspace/math/spam'
+let g:netrw_dirhist_7='/disk2/workspace/chenlingxi/workspace/math/spam/src'
